@@ -1,0 +1,5 @@
+name: noHunger
+version: 1.0.0
+api: [4.0.0]
+main: achedon\nohunger\hunger
+author: Achedon12
